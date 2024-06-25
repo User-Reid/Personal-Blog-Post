@@ -1,0 +1,18 @@
+#posts {
+  display: flex;
+  flex-direction: column;
+}
+
+.post {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.post h2 {
+  margin: 0;
+}
+
+.post p {
+  margin: 5px 0;
+}
